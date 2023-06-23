@@ -29,7 +29,7 @@ struct ContentView: View {
             }
           
                 .fontWeight(.bold)
-            
+            Text("Hi")
 
         }
         .padding()
